@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Manvi-Chaudhary
-- 👀 I’m interested in web designing and machine learning.
-- 🌱 I’m currently learning web designing and programming languages.
-- 💞️ I’m looking to collaborate on web designing.
+
+- 🌱 I’m a Flutter App developer and Web Developer.
+- I can create websites using React or Pure HTML,CSS and javascripts.
+- C++ is my fav language for DSA.
+
+
 
 
 <!---
